@@ -10,8 +10,8 @@ import google.generativeai as genai
 
 
 # API keys
-YOUTUBE_API_KEY = 'AIzaSyAuDhKY-KP1zGzTUosNTcWM5j1Yt2RrCus'                                                                                                                                        
-GEMINI_API_KEY = 'AIzaSyC28Uzj9xiOIBuXh0Xwao6yhKOfKfpxCYU'
+YOUTUBE_API_KEY = ""                                                                                                                                      
+GEMINI_API_KEY = ""
 
 # Initialize the recognizer and text-to-speech engine
 recognizer = sr.Recognizer()
